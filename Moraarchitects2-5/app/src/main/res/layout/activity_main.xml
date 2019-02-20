@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="MORA ARCHITECTS"
+        android:textAppearanceLarge="?android:textAppearanceLarge"
+        android:textStyle="bold"
+        android:paddingTop="15dp"
+        android:paddingBottom="3dp"
+        android:paddingRight="15dp"
+        android:paddingLeft="120dp"
+        android:background="#DFE3EE" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Planning and Egineering"
+        android:textAppearanceMedium="?android:textAppearanceMedium"
+        android:paddingLeft="112dp"
+        android:paddingBottom="1dp"
+        android:background="#DFE3EE"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Patrick Mora, AIA, Principal"
+        android:textAppearanceMedium="?android:textAppearanceMedium"
+        android:paddingLeft="100dp"
+        android:paddingBottom="15dp"
+        android:background="#DFE3EE"/>
+
+    <ImageView
+        android:src="@drawable/columntop"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#ffbf00"
+        android:padding="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="With over thirty-one years of experience, we bring creative visions and bold designs to life."
+        android:textAppearanceLarge="?android:textAppearanceLarge"
+        android:textStyle="bold"
+        android:paddingTop="15dp"
+        android:paddingBottom="25dp"
+        android:paddingLeft="15dp"
+        android:lineSpacingExtra="8dp"
+        android:background="#DFE3EE"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="tel. 415.431.8601"
+        android:paddingLeft="15dp"
+        android:paddingTop="10dp"
+        android:textAppearanceMedium="?android:textAppearanceMedium"
+        android:background="#DFE3EE"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="moraarchitects.com"
+        android:paddingLeft="15dp"
+        android:paddingTop="5dp"
+        android:textAppearanceMedium="?android:textAppearanceMedium"
+        android:background="#DFE3EE"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="115 Valencia Street San Francisco, CA 94103"
+        android:paddingLeft="15dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="20dp"
+        android:textAppearanceMedium="?android:textAppearanceMedium"
+        android:background="#DFE3EE"
+        android:layout_weight="1"/>
+
+</LinearLayout>
+
